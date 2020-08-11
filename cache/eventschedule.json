@@ -1,0 +1,635 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597017900,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597017600
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597104300,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597104000
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597190700,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597190400
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597277100,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597276800
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597363500,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597363200
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597449900,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597449600
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597536300,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597536000
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597622700,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597622400
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597709100,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597708800
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597795500,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597795200
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597881900,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597881600
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1597968300,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1597968000
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598054700,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598054400
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598141100,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598140800
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598227500,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598227200
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598313900,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598313600
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598400300,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598400000
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598486700,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598486400
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598573100,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598572800
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598659500,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598659200
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598745900,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598745600
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598832300,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598832000
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1598918700,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1598918400
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1599005100,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1599004800
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1599091500,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1599091200
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1599177900,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1599177600
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1599264300,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1599264000
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1599350700,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1599350400
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1599437100,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1599436800
+        },
+        {
+            "colordark": "#00008B",
+            "colorlight": "#00008B",
+            "description": "The event continues until one of the teams is exterminated or times out.",
+            "enddate": 1599523500,
+            "isseasonal": false,
+            "name": "[Battle-Field]",
+            "startdate": 1599523200
+        },
+        {
+            "colordark": "#7B68EE",
+            "colorlight": "#9370DB",
+            "description": "Any player can join the event. You do not need to be inside a guild.",
+            "enddate": 1597019400,
+            "isseasonal": false,
+            "name": "[G-O-T]",
+            "startdate": 1597017600
+        },
+        {
+            "colordark": "#7B68EE",
+            "colorlight": "#9370DB",
+            "description": "Any player can join the event. You do not need to be inside a guild.",
+            "enddate": 1597624200,
+            "isseasonal": false,
+            "name": "[G-O-T]",
+            "startdate": 1597622400
+        },
+        {
+            "colordark": "#7B68EE",
+            "colorlight": "#9370DB",
+            "description": "Any player can join the event. You do not need to be inside a guild.",
+            "enddate": 1598229000,
+            "isseasonal": false,
+            "name": "[G-O-T]",
+            "startdate": 1598227200
+        },
+        {
+            "colordark": "#7B68EE",
+            "colorlight": "#9370DB",
+            "description": "Any player can join the event. You do not need to be inside a guild.",
+            "enddate": 1598833800,
+            "isseasonal": false,
+            "name": "[G-O-T]",
+            "startdate": 1598832000
+        },
+        {
+            "colordark": "#7B68EE",
+            "colorlight": "#9370DB",
+            "description": "Any player can join the event. You do not need to be inside a guild.",
+            "enddate": 1599438600,
+            "isseasonal": false,
+            "name": "[G-O-T]",
+            "startdate": 1599436800
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597007100,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597006800
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597093500,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597093200
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597179900,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597179600
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597266300,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597266000
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597352700,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597352400
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597439100,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597438800
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597525500,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597525200
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597611900,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597611600
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597698300,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597698000
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597784700,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597784400
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597871100,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597870800
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1597957500,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1597957200
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598043900,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598043600
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598130300,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598130000
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598216700,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598216400
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598303100,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598302800
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598389500,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598389200
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598475900,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598475600
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598562300,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598562000
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598648700,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598648400
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598735100,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598734800
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598821500,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598821200
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598907900,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598907600
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1598994300,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1598994000
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1599080700,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1599080400
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1599167100,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1599166800
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1599253500,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1599253200
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1599339900,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1599339600
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1599426300,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1599426000
+        },
+        {
+            "colordark": "#006400",
+            "colorlight": "#008000",
+            "description": "The event will start only with 5 players or more.",
+            "enddate": 1599512700,
+            "isseasonal": false,
+            "name": "[L-M-S]",
+            "startdate": 1599512400
+        },
+        {
+            "colordark": "#B22222",
+            "colorlight": "#FA8072",
+            "description": "The event lasts until the last participant got killed. This one who will be the winner.",
+            "enddate": 1597532700,
+            "isseasonal": false,
+            "name": "LEFT4DEAD",
+            "startdate": 1597532400
+        },
+        {
+            "colordark": "#B22222",
+            "colorlight": "#FA8072",
+            "description": "The event lasts until the last participant got killed. This one who will be the winner.",
+            "enddate": 1598137500,
+            "isseasonal": false,
+            "name": "LEFT4DEAD",
+            "startdate": 1598137200
+        },
+        {
+            "colordark": "#B22222",
+            "colorlight": "#FA8072",
+            "description": "The event lasts until the last participant got killed. This one who will be the winner.",
+            "enddate": 1598742300,
+            "isseasonal": false,
+            "name": "LEFT4DEAD",
+            "startdate": 1598742000
+        },
+        {
+            "colordark": "#B22222",
+            "colorlight": "#FA8072",
+            "description": "The event lasts until the last participant got killed. This one who will be the winner.",
+            "enddate": 1599347100,
+            "isseasonal": false,
+            "name": "LEFT4DEAD",
+            "startdate": 1599346800
+        },
+        {
+            "colordark": "#7a1b34",
+            "colorlight": "#64162b",
+            "description": "Exemplo Evento seasioal",
+            "enddate": 1576742952,
+            "isseasonal": true,
+            "name": "Evento de data",
+            "startdate": 1575706152
+        }
+    ],
+    "lastupdatetimestamp": 1596981181
+}
